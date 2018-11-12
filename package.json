@@ -1,0 +1,21 @@
+{
+  "name": "gsap-react-route-animation",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "gsap": "2.0.1",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-router-dom": "4.3.1",
+    "react-transition-group": "2.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
